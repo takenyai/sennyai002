@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Block Breaker Game</title>
+</head>
+<body>
+    <div class="game-area">
+        <div class="ball"></div>
+        <div class="paddle"></div>
+        <div class="brick"></div>
+        <!-- 他のブロックも追加 -->
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
